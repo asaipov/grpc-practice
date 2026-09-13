@@ -1,4 +1,4 @@
-module github.com/asaipov/protos
+module github.com/asaipov/grpc-practice
 
 go 1.27.0
 
